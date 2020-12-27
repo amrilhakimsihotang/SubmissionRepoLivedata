@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movie Library</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="body">Hi Dear,\nPlease update the list Movie/TV Show per weeks. \nThanks</string>
+    <string name="subject">Please update Movie List</string>
+    <string name="email">gueamril@yahoo.com</string>
+    <string name="title">Email to :</string>
+    <string name="change_language">EN-ID</string>
+    <string name="title_general">Title here</string>
+    <string name="overview">Overview here....</string>
+    <string name="share">Share Button</string>
+    <string name="poster">Poster Movies</string>
+    <string name="sharedetail">Hi friend,\nHerewith I would like to recommend you the movie  </string>
+    <string name="sharedetail2"> this today.\n Enjoy watching.</string>
+    <string name="sharedetailtv">Hi friend,\nHerewith I would like to recommend you the TV SHOW  </string>
+    <string name="sharedetailtv2"> this today.\n Enjoy watching.</string>
+    <string name="detailmovie">Detail Movie</string>
+    <string name="detailtivishow">Detail TV Show</string>
+    <string name="director">Director: %s</string>
+    <string name="writer">Writer: %s</string>
+    <string name="screenplay">Screenplay: %s</string>
+    <string name="personcasting">Cast: %s</string>
+    <string name="headercast">Cast</string>
+    <string name="creator">Creator: %s</string>
+    <string name="seriescast">Series Cast</string>
+    <string name="seriescasting">Cast: %s</string>
+</resources>
